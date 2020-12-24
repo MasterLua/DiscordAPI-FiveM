@@ -1,2 +1,7 @@
-# DiscordAPI-FiveM
-This script dev by me and i will leak because gay sell it
+# DISCORD API
+
+## Prerequisite
+- I will help nobody !
+
+## Credit
+💖 Create by MasterLua
