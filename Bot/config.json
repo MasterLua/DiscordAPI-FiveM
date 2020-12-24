@@ -1,0 +1,14 @@
+{
+    "rcon" : {
+        "ip" : "IP",
+        "password" : "RCON PASSWORD",
+        "port" : 30120  
+    },
+    "roles" : {
+        "staff" : "790036974551433257",
+        "gerant" : "790036966459703326",
+        "dev" : "790036961502429214"
+    },
+    "discord_token" : "token",
+    "prefix" : "!"
+}
