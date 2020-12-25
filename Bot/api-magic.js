@@ -12,10 +12,6 @@ var rcon = new Q3RCon({
 
 console.log("------------")
 
-app.listen(config.port_api, () => {
-  console.log("["+ config.name_server +"] API STARTED")
-})
-
 client.on('ready', () => {
     console.log("["+ config.name_server +"] BOT STARTED")
 });  
