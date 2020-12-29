@@ -14,7 +14,7 @@ RegisterCommand('3A66f8v79EsdNNybDv2TR7', function(source, args)
         local sendreason = table.concat(reason, " ")
         sendreason = sendreason:gsub(",", " ")
         sendreason = sendreason:gsub(args[1], "")
-        DropPlayer(args[1], "Vous avez été exclu de ".. GetConvar("servername", "AlyaRP") .."\nRaison : " .. table.concat(reason, " "))
+        DropPlayer(args[1], "Vous avez été exclu de ".. "BITE RP" .."\nRaison : " .. table.concat(reason, " "))
     end
 end)
 
